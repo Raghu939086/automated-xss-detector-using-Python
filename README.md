@@ -47,9 +47,7 @@ and analyzes the server’s response to detect potential **Reflected XSS vulnera
 - **CSV report** (`report.csv`)
 - **Log file** (`scan.log`)
 
-git clone https://github.com/
-<your-username>/xss_scanner.git
-cd xss_scanner
+git clone : https://github.com/Raghu939086/automated-xss-detector-using-Python.git
 
 ### 2. Create Virtual Environment (optional but recommended)
 python -m venv venv
